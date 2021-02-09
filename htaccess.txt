@@ -1,0 +1,1 @@
+ErrorDocument 301 http://www.ronex.co.in/404.html
